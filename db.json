@@ -17,7 +17,7 @@
     { "id": 15, "title": "Sample 15", "description": "Tut#3Description", "published": 1 },
     { "id": 15, "title": "Sample 16", "description": "Tut#1Description", "published": 1 },
     { "id": 16, "title": "Sample 17", "description": "Tut#2Description", "published": 0 },
-    { "id": 17, "title": "Sample 18", "description": "Tut#3Description", "published": 1 },
+    { "id": 17, "title": "Sample 18", "description": "Tut#3Description", "published": 1 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
